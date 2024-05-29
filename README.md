@@ -1,3 +1,3 @@
 # REST Api backend in Laravel
 
-Requires cookie token authentication
+Allows shared domain front-end application to request cookie token protected data . 
